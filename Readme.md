@@ -3,7 +3,7 @@ We love animals!! But more than that.. We care for them... So we came up with a 
 ## Team-Outliers' members:
 - Himanshu
 - Gautam Raj
-- siddharth
+- siddhartha singh
 - anchal sharma
 - gauri gupta
 ### Domain
