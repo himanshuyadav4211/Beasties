@@ -1,9 +1,13 @@
 # Beasties
-
+We love animals!! But more than that.. We care for them... So we came up with a way to your hassle free appointments with us..
 ## Team-Outliers' members:
-
+- Himanshu
+- Gautam Raj
+- siddharth
+- anchal sharma
+- gauri gupta
 ### Domain
-
+open innovation
 ### Code
 ```python
 if __name__ == '__main__':
